@@ -16,7 +16,7 @@ this.addEventListener('install', function(event) {
     })
   );
 });
-//test3
+//test4
 this.addEventListener('fetch', function(event) {
   var response;
   event.respondWith(caches.match(event.request).catch(function() {
