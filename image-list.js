@@ -24,3 +24,5 @@ var Gallery = { 'images' : [
   },
   
 ]};
+
+console.log("image-list.js");
